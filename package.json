@@ -1,0 +1,26 @@
+{
+  "name": "curry-package-full-name",
+  "version": "1.0.0",
+  "description": "return full name",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emukupa/curry-package.git"
+  },
+  "keywords": [
+    "full",
+    "name"
+  ],
+  "author": "Edward Manda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emukupa/curry-package/issues"
+  },
+  "homepage": "https://github.com/emukupa/curry-package#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
